@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: invoke_codegen_clean
+    description: "A starter dynamic dbt model generation "
