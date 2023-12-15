@@ -1,1 +1,1 @@
-{{clean_model_gen('CLEAN_CSKU','TRANSIENT_CSKU','POS')}}
+select {{clean_model_gen('CLEAN_CSKU','TRANSIENT_CSKU','POS')}}
